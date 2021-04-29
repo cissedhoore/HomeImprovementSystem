@@ -24,7 +24,7 @@ Hardware Design, PCB design, Electronics, Microcontrollers, ...
 
 
 ##   Progress
-### Step 1: creating a Basic Node.
+### Step 1: creating a Basic Node
 This node can then be used to demonstrate how the system works and as a template to create the other nodes. The node needs to be able to communicate in a wireless way and should posses some simple inputs and outputs (like buttons and LED's for example). The node also needs to be programmable and has to have good powersource.
 
 Link to hardware: https://easyeda.com/cissedhoore/home-system
@@ -36,13 +36,13 @@ Link to hardware: https://easyeda.com/cissedhoore/home-system
 - micro USB port
 
 **Version 1**
-Problems:
-Some components were to small to be soldered by hand. 
-USB connection to the ATMEGA doesn't work.
+Problems:  
+Some components were to small to be soldered by hand.   
+USB connection to the ATMEGA doesn't work.  
 
-**Version 2**
-Usage of the velleman nRF24L module.
-Cleaner USB connections.
+**Version 2**  
+Usage of the velleman nRF24L module.  
+Cleaner USB connections.  
 
 
 
