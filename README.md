@@ -35,8 +35,8 @@ Link to hardware: https://easyeda.com/cissedhoore/home-system
 - 3v3 LDO
 - micro USB port
 
-**Version 1**
-Problems:  
+**Version 1**  
+Problems:   
 Some components were to small to be soldered by hand.   
 USB connection to the ATMEGA doesn't work.  
 
