@@ -1,4 +1,4 @@
-# Home Improvement System
+# Home Improvement System (WIP)
 ## Description
 This is a hobby project with the primary aim of learning new things. The goal is to create a domotica system that can interact with a home enviroment by creating many different "nodes" that interact with each other. An example of this would be to control a "light source node" using a "wireless remote node". An other option is to control all the nodes with a central mobile application.
 
