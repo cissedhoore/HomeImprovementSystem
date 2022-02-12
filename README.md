@@ -23,8 +23,8 @@ Hardware Design, PCB design, Electronics, Microcontrollers, ...
 - Signal Repeater Node
 
 ## Project Overview
-### commonNode
-The first step is to create a basic node called the commonNode which is described in the commonNode.md file.
+### bfsBasicNode
+The first step is to create a basic node called the Basic Node which is described in the bfsBasicNode.md file.
 
 
 ## Conclusion
