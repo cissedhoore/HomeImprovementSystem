@@ -26,6 +26,8 @@ Hardware Design, PCB design, Electronics, Microcontrollers, ...
 ### bfsBasicNode
 The first step is to create a basic node called the Basic Node which is described in the bfsBasicNode.md file.
 
+### TODO
+- Add pictures to this repository
 
 ## Conclusion
 
